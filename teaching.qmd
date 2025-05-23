@@ -1,0 +1,91 @@
+---
+title: "Teaching"
+format: html
+---
+
+# Teaching
+
+I have taught undergraduate and graduate courses in political science, public policy, and research methodology at various academic institutions in Latin America. My teaching focuses on the intersection of institutions, behavior, and methods, combining theoretical foundations with applied, data-driven approaches.
+
+------------------------------------------------------------------------
+
+## Teaching Experience (Instructor)
+
+### Pontificia Universidad Católica de Chile
+
+-   **Applied Statistical Tools for Political Analysis** (ICP5009, 2025) – Master’s Program\
+-   **Evidence for Public Policy** (ADP005G, 2025) – Undergraduate\
+-   **Institutions and Strategic Behavior** (ICP0151, 2025) – Undergraduate\
+-   **Introduction to Political Science** (ICP0101, 2022–2025) – Undergraduate
+
+### Universidad Diego Portales
+
+-   **Quantitative Methods I** (MPP0218, 2023–2025) – Master's in Public Policy\
+-   **Political Economy** (MPP0222, 2023) – Master's in Public Policy\
+-   **Comparative Politics** (CPO3019, 2022–2024) – Undergraduate\
+-   **Comparative Theory and Methods** (CPO3001, 2024) – Undergraduate\
+-   **Introductory Quantitative Leveling** (MPP0218_OB01, 2023–2025) – Master’s in Public Policy
+
+### Universidad Alberto Hurtado
+
+-   **Basic Quantitative Methods** (2428CPO01/02, 2025) – Undergraduate\
+-   **Statistics II** (3149CPO01/02, 2024) – Undergraduate
+
+### Universidad de Chile
+
+-   **Professional Practice Seminar** (CP5201, 2023–2025) – Undergraduate\
+-   **Evolution of Political Institutions II** (CP2101-1, 2023) – Undergraduate
+
+### FLACSO – Ecuador
+
+-   **Research Methodology in Social Sciences** (2022) – Specialization
+
+### Universidad de los Hemisferios (Ecuador)
+
+-   **Research Methods** (POL_R304, POL808, 2019) – Undergraduate and graduate level
+
+------------------------------------------------------------------------
+
+## Topics Taught
+
+-   Quantitative methods and applied statistics\
+-   Comparative political institutions\
+-   Legislative politics and executive-legislative relations\
+-   Political economy and state capacity\
+-   Research design and methodology
+
+------------------------------------------------------------------------
+
+## Thesis Supervision
+
+-   **Graduate theses** – Master in Public Policy, Universidad Diego Portales (2 completed)\
+-   **Undergraduate theses** – Political Science, Universidad Diego Portales (3 completed and 2 in progress)
+
+------------------------------------------------------------------------
+
+## Teaching Assistan
+
+### Pontificia Universidad Católica de Chile
+
+-   **Political Change from the Neolithic to the Internet** (ICP0153-1, 2023) – Undergraduate\
+    *Instructor: Prof. Valentín Figueroa*
+
+-   **Quantitative Methods I** (ICP5928, 2022) – Doctoral Program\
+    *Instructor: Prof. Catherine Reyes-Housholder*
+
+-   **Quantitative Methods II** (ICP5929, 2022) – Doctoral Program\
+    *Instructor: Prof. Francisco Urdinez*
+
+-   **Applied Statistical Tools for Political Analysis** (ICP5009, 2021) – Master’s Program\
+    *Instructor: Prof. Catherine Reyes-Housholder*
+
+-   **Introduction to Political Science** (ICP0101, 2020) – Undergraduate\
+    *Instructor: Prof. Carla Alberti*
+
+### FLACSO – Ecuador
+
+-   **Logic of Inquiry in Comparative Politics** (2019) – Master's Program\
+    *Instructor: Prof. Santiago Basabe Serrano*
+
+-   **Parties and Party Systems** (2018) – Master's Program\
+    *Instructor: Prof. Alejandro Olivares*

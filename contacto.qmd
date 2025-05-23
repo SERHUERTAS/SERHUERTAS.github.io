@@ -1,0 +1,23 @@
+---
+title: "Contact"
+format: html
+---
+
+## Contact Information
+
+📍 Pontificia Universidad Católica de Chile  
+Campus San Joaquín, Av. Vicuña Mackenna 4860  
+Macul, Santiago – Chile
+
+📧 [sahuertas@uc.cl](mailto:sahuertas@uc.cl) 
+
+📧 [sergio.huertas@mail.udp.cl](mailto:sergio.huertas@mail.udp.cl)
+
+📧 [shuertas@uahurtado.cl](mailto:shuertas@uahurtado.cl)
+
+🔗 [ORCID](https://orcid.org/0000-0002-2697-3068)
+🔗 [Scopus Author ID](https://www.scopus.com/authid/detail.uri?authorId=57203193880)
+🔗 [Web of Science ResearcherID](https://www.webofscience.com/wos/author/record/AAM-9318-2020)
+🔗 [Google Scholar](https://scholar.google.es/citations?user=fv7N0eUAAAAJ&hl=es&oi=ao)
+
+</div>
