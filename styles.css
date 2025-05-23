@@ -1,0 +1,38 @@
+/* css styles */
+/* Cambia el color del encabezado y navbar */
+.navbar {
+  background-color: #003366; /* azul oscuro */
+  border-bottom: 2px solid #002244;
+}
+
+/* Cambia el color del texto en la navbar */
+.navbar a {
+  color: #ffffff !important;
+}
+
+/* Color de fondo del cuerpo */
+body {
+  background-color: #f8f9fa; /* gris muy claro */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* Color y estilo de los títulos */
+h1, h2, h3, h4 {
+  color: #003366;
+}
+
+/* Cambia el color de los enlaces */
+a {
+  color: #0066cc;
+}
+a:hover {
+  color: #004488;
+}
+
+/* Footer (si usas uno custom más adelante) */
+footer {
+  background-color: #003366;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
