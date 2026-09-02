@@ -34,7 +34,8 @@ body.quarto-dark,
 body {
   background: var(--page);
   color: var(--ink);
-  font-family: Inter, "Helvetica Neue", Arial, sans-serif;
+  font-family: "Source Sans 3", Inter, "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.02rem;
   line-height: 1.7;
 }
 
@@ -96,6 +97,165 @@ a {
 
 a:hover {
   color: var(--heading);
+}
+
+/* Home page: open, editorial layout inspired by the supplied reference. */
+body.home-page {
+  background: var(--paper);
+}
+
+body.home-page main.content {
+  background: transparent;
+  border-radius: 0;
+  box-shadow: none;
+  margin-top: 1.4rem;
+  max-width: 1320px;
+  padding-inline: clamp(1.25rem, 3vw, 2.25rem);
+}
+
+.profile-wrap {
+  align-items: flex-start;
+  display: flex;
+  gap: clamp(2.25rem, 5vw, 4rem);
+}
+
+.profile-wrap .profile-card {
+  background: transparent;
+  border: 0;
+  flex: 0 1 310px;
+  max-width: 310px;
+  padding: 0;
+  text-align: center;
+}
+
+.profile-card img.headshot {
+  aspect-ratio: 4 / 5.55;
+  border-radius: 12px;
+  box-shadow: 0 8px 26px var(--shadow);
+  display: block;
+  margin-bottom: 1.15rem;
+  object-fit: cover;
+  object-position: 50% 35%;
+  width: 100%;
+}
+
+.profile-card .p-name {
+  color: var(--heading);
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: clamp(1.45rem, 2vw, 1.7rem);
+  font-weight: 600;
+  line-height: 1.25;
+  margin: 0 0 0.65rem;
+}
+
+.profile-card .p-role {
+  color: var(--muted);
+  font-size: 0.96rem;
+  line-height: 1.45;
+  margin: 0.12rem 0;
+}
+
+.profile-card .p-role a {
+  text-decoration: none;
+}
+
+.profile-card .p-role a:hover {
+  text-decoration: underline;
+}
+
+.profile-body {
+  flex: 1 1 620px;
+  min-width: 0;
+}
+
+.profile-body > h2:first-child {
+  font-size: clamp(1.65rem, 2.5vw, 2rem);
+  margin-top: 0.55rem;
+}
+
+.profile-body p {
+  max-width: 86ch;
+}
+
+.social-icons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  justify-content: center;
+  margin: 1rem 0 0.75rem;
+}
+
+.social-icons a {
+  align-items: center;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  color: var(--academic-blue);
+  display: inline-flex;
+  font-size: 1.05rem;
+  height: 2.45rem;
+  justify-content: center;
+  text-decoration: none;
+  transition: background-color 0.16s ease, border-color 0.16s ease, color 0.16s ease, transform 0.16s ease;
+  width: 2.45rem;
+}
+
+.social-icons a:hover,
+.social-icons a:focus {
+  background: var(--button-bg);
+  border-color: var(--button-bg);
+  color: #fff;
+  transform: translateY(-2px);
+}
+
+.btn-cv {
+  align-items: center;
+  background: var(--button-bg);
+  border-radius: 7px;
+  color: #fff !important;
+  display: inline-flex;
+  font-weight: 600;
+  gap: 0.5rem;
+  margin-top: 0.35rem;
+  padding: 0.52rem 1.05rem;
+  text-decoration: none;
+  transition: opacity 0.16s ease, transform 0.16s ease;
+}
+
+.btn-cv:hover,
+.btn-cv:focus {
+  opacity: 0.9;
+  transform: translateY(-1px);
+}
+
+.profile-facts {
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin: 1.35rem 0 1.55rem;
+}
+
+.profile-fact {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 7px;
+  border-top: 3px solid var(--academic-gold);
+  padding: 0.85rem 0.95rem;
+}
+
+.profile-fact h3 {
+  border: 0;
+  font-family: "Source Sans 3", sans-serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.075em;
+  margin: 0 0 0.35rem;
+  text-transform: uppercase;
+}
+
+.profile-fact p {
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.45;
+  margin: 0;
 }
 
 .profile-layout {
@@ -233,6 +393,21 @@ a:hover {
 }
 
 @media (max-width: 767px) {
+  .profile-wrap {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .profile-wrap .profile-card {
+    margin-inline: auto;
+    max-width: 340px;
+    width: 100%;
+  }
+
+  .profile-facts {
+    grid-template-columns: 1fr;
+  }
+
   .profile-layout {
     grid-template-columns: 1fr;
   }
