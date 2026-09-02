@@ -1,0 +1,11 @@
+/* Final contrast safeguards for Quarto's light and dark color schemes. */
+:root {
+  --heading: #17324d;
+  --button-bg: #17324d;
+}
+
+body.quarto-dark,
+[data-bs-theme="dark"] {
+  --heading: #eef4f7;
+  --button-bg: #2d6f9b;
+}

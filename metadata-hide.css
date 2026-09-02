@@ -1,0 +1,6 @@
+/* Metadata remains in the HTML head for search and social previews. */
+#title-block-header .quarto-title-meta,
+#title-block-header .description,
+#title-block-header .keywords {
+  display: none !important;
+}
